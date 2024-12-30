@@ -6,12 +6,6 @@ export const newsImages = [
     category: 'Sports'
   },
   {
-    url: 'https://ik.imagekit.io/sackoba/news/Sri_Lankan_Badminton_Tournament_Group_Photo.jpg?updatedAt=1734691334288',
-    title: 'Sri Lankan Badminton Tournament',
-    description: 'Group photo of participants from the Sri Lankan Community Badminton Tournament.',
-    category: 'Community'
-  },
-  {
     url: 'https://ik.imagekit.io/sackoba/news/Sri_Lankan_community_badminton_tournament_event_group.jpg?updatedAt=1734691334396',
     title: 'Community Badminton Event',
     description: 'Sri Lankan community members gathered for the annual badminton tournament.',
